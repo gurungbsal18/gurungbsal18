@@ -9,7 +9,7 @@ I specialize in crafting exceptional digital experiences through a blend of UI/U
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [gurungbsal18@gmail.com](mailto:gurungbsal18@gmail.com)
 * 🚀  I'm currently working on [Travel website (UI/UX, Frontend) and Mobile Application (UI/UX)](http://github.com/gurungbsal18)
-* 🧠  I'm learning ReactJs, NextJs, NodeJs
+* 🧠  I'm good in ReactJs, NextJs, NodeJs
 * 🤝  I'm open to collaborating on Any projects
 * ⚡  When I’m not designing intuitive interfaces or writing clean, efficient code, you’ll likely find me exploring the latest design trends, experimenting with new CSS tricks, or diving into the details of user behavior to create seamless experiences. As a passionate UI/UX Engineer and frontend web developer, I’m always looking for opportunities to collaborate, innovate, and create meaningful digital products. Let’s connect and bring ideas to life! 🚀
 
